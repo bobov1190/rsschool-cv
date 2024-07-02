@@ -49,3 +49,21 @@ a {
     text-decoration: none;
     color: #c300ff;
 }
+
+ol {
+    list-style-type: none;
+}
+
+h2 {
+    margin-right: 18px;
+}
+
+.navigation-list {
+    list-style-type: none;
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.navigation-list * {
+    margin: 0 0 0 10px;
+}
